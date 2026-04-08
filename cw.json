@@ -306,5 +306,161 @@
       ]
     }
   ]
-}
+},
+{
+    "courseCode": "CSC 310",
+    "courseTitle": "Software Engineering",
+    "assignments": [
+      {
+        "assignmentId": "CW_01",
+        "topic": "Software Development Life Cycle",
+        "duration": "15 minutes",
+        "expiry": "April 24, 2026",
+        "questions": [
+          {
+            "questionText": "What does SDLC stand for?",
+            "options": ["Software Development Life Cycle", "System Data Link Control", "Software Design Logic Cycle", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Which phase comes first in SDLC?",
+            "options": ["Testing", "Design", "Planning", "Deployment"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "questionText": "Which model is linear?",
+            "options": ["Agile", "Waterfall", "Spiral", "RAD"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "questionText": "Agile focuses on?",
+            "options": ["Documentation", "Flexibility", "Rigid planning", "None"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "questionText": "Testing ensures?",
+            "options": ["Speed", "Quality", "Design", "Cost"],
+            "correctAnswerIndex": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseCode": "CSC 330",
+    "courseTitle": "Operating Systems",
+    "assignments": [
+      {
+        "assignmentId": "CW_01",
+        "topic": "Process Management",
+        "duration": "15 minutes",
+        "expiry": "April 26, 2026",
+        "questions": [
+          {
+            "questionText": "A process is?",
+            "options": ["Program in execution", "File", "Memory", "Thread"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Which is a scheduling algorithm?",
+            "options": ["FIFO", "HTTP", "SQL", "DNS"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Deadlock occurs when?",
+            "options": ["CPU idle", "Processes wait indefinitely", "Memory full", "Disk error"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "questionText": "Thread is?",
+            "options": ["Lightweight process", "Heavy process", "Program", "File"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "CPU scheduling improves?",
+            "options": ["Performance", "Design", "Security", "Storage"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseCode": "CSC 340",
+    "courseTitle": "Computer Networks",
+    "assignments": [
+      {
+        "assignmentId": "CW_01",
+        "topic": "Network Basics",
+        "duration": "15 minutes",
+        "expiry": "April 28, 2026",
+        "questions": [
+          {
+            "questionText": "What does LAN stand for?",
+            "options": ["Local Area Network", "Large Area Network", "Logical Access Network", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "IP address is?",
+            "options": ["Identifier", "Protocol", "Device", "Cable"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Which device routes data?",
+            "options": ["Switch", "Router", "Hub", "Bridge"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "questionText": "OSI has how many layers?",
+            "options": ["5", "6", "7", "8"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "questionText": "HTTP is?",
+            "options": ["Protocol", "Hardware", "Cable", "Software"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseCode": "CSC 350",
+    "courseTitle": "Database Systems",
+    "assignments": [
+      {
+        "assignmentId": "CW_01",
+        "topic": "Relational Databases",
+        "duration": "15 minutes",
+        "expiry": "April 30, 2026",
+        "questions": [
+          {
+            "questionText": "What is a primary key?",
+            "options": ["Unique identifier", "Duplicate field", "Index", "View"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "SQL stands for?",
+            "options": ["Structured Query Language", "Simple Query Logic", "System Query Language", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Which command retrieves data?",
+            "options": ["INSERT", "DELETE", "SELECT", "UPDATE"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "questionText": "Normalization reduces?",
+            "options": ["Redundancy", "Speed", "Security", "Memory"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Foreign key is?",
+            "options": ["Reference key", "Primary key", "Index", "None"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      }
+    ]
+  }  
 ]
