@@ -1,0 +1,350 @@
+[
+  {
+    "code": "Cos 201",
+    "topic": "Week 5: Quotient Rule & Derivatives",
+    "duration": "20 minutes",
+    "expiry": "April 15, 2026",
+    "questions": [
+      {
+        "questionText": "What is the derivative of tan(x)?",
+        "options": ["cos^2(x)", "sec^2(x)", "1", "sin(x)"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "What is the derivative of sin(x)?",
+        "options": ["-cos(x)", "cos(x)", "tan(x)", "sec(x)"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Derivative of cos(x)?",
+        "options": ["-sin(x)", "sin(x)", "tan(x)", "sec^2(x)"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Quotient rule formula?",
+        "options": ["(vu' - uv')/v^2", "uv + vu", "u/v", "u^2 + v^2"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Derivative of x^2?",
+        "options": ["2x", "x", "x^3", "1"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Derivative of e^x?",
+        "options": ["x", "e^x", "ln(x)", "1"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Derivative of ln(x)?",
+        "options": ["1/x", "x", "ln(x)", "e^x"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Derivative of constant?",
+        "options": ["1", "0", "x", "undefined"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Derivative of sec(x)?",
+        "options": ["sec(x)tan(x)", "tan(x)", "sec^2(x)", "cos(x)"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Derivative of x^3?",
+        "options": ["3x^2", "x^2", "3x", "x^4"],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "code": "Csc 203",
+    "topic": "Software Engineering Principles",
+    "duration": "15 minutes",
+    "expiry": "May 01, 2026",
+    "questions": [
+      {
+        "questionText": "Which model is linear and sequential?",
+        "options": ["Scrum", "Waterfall", "Agile", "Spiral"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Agile focuses on?",
+        "options": ["Documentation", "Flexibility", "Hardware", "Testing only"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Scrum uses?",
+        "options": ["Sprints", "Waterfall", "Phases", "Loops"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "SDLC stands for?",
+        "options": ["Software Design Life Cycle", "Software Development Life Cycle", "System Dev Loop Cycle", "Software Data Link Cycle"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Testing phase ensures?",
+        "options": ["Performance", "Quality", "Coding", "Design"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which is iterative?",
+        "options": ["Waterfall", "Spiral", "Linear", "Static"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Requirement gathering is?",
+        "options": ["First phase", "Last phase", "Testing phase", "Maintenance"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Maintenance involves?",
+        "options": ["Fixing bugs", "Designing", "Coding only", "Testing only"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Which is lightweight?",
+        "options": ["Agile", "Waterfall", "Spiral", "V-model"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Version control is used for?",
+        "options": ["Tracking changes", "Designing UI", "Testing", "Debugging"],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "code": "Cos 202",
+    "topic": "Linear Algebra Basics",
+    "duration": "20 minutes",
+    "expiry": "April 20, 2026",
+    "questions": [
+      {
+        "questionText": "What is a matrix?",
+        "options": ["Table of numbers", "Equation", "Graph", "Scalar"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Determinant applies to?",
+        "options": ["Square matrix", "Vector", "Scalar", "Line"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Identity matrix has?",
+        "options": ["1s on diagonal", "0s only", "Random values", "Negative values"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Transpose means?",
+        "options": ["Swap rows/columns", "Add values", "Multiply", "Divide"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Vector has?",
+        "options": ["Magnitude and direction", "Only magnitude", "Only direction", "None"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Inverse matrix exists when?",
+        "options": ["Det ≠ 0", "Det = 0", "Matrix is zero", "Always"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Scalar is?",
+        "options": ["Single value", "Matrix", "Vector", "Function"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Eigenvalues relate to?",
+        "options": ["Matrices", "Scalars", "Vectors only", "Lines"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Rank of matrix is?",
+        "options": ["Max independent rows", "Sum of values", "Diagonal sum", "Size"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Zero matrix has?",
+        "options": ["All zeros", "All ones", "Mixed values", "Negative values"],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "code": "Csc 204",
+    "topic": "Data Structures",
+    "duration": "25 minutes",
+    "expiry": "May 05, 2026",
+    "questions": [
+      {
+        "questionText": "Stack follows?",
+        "options": ["FIFO", "LIFO", "Random", "None"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Queue follows?",
+        "options": ["FIFO", "LIFO", "Stack", "Tree"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Linked list uses?",
+        "options": ["Pointers", "Arrays", "Indexes", "Loops"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Tree root is?",
+        "options": ["Top node", "Leaf", "Branch", "Edge"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Binary tree has max?",
+        "options": ["2 children", "3 children", "1 child", "4 children"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Array is?",
+        "options": ["Contiguous memory", "Random memory", "Linked", "Dynamic"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Hashing is for?",
+        "options": ["Fast lookup", "Sorting", "Looping", "Counting"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Graph consists of?",
+        "options": ["Nodes & edges", "Arrays", "Stacks", "Queues"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Push operation is?",
+        "options": ["Add to stack", "Remove", "Search", "Sort"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Pop operation is?",
+        "options": ["Remove from stack", "Add", "Insert", "Traverse"],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "code": "Cos 203",
+    "topic": "Probability",
+    "duration": "15 minutes",
+    "expiry": "April 25, 2026",
+    "questions": [
+      {
+        "questionText": "Probability range?",
+        "options": ["0 to 1", "1 to 10", "-1 to 1", "0 to 100"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Certain event probability?",
+        "options": ["1", "0", "0.5", "-1"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Impossible event?",
+        "options": ["0", "1", "0.5", "2"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Coin toss outcomes?",
+        "options": ["2", "1", "3", "4"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Die has?",
+        "options": ["6 outcomes", "5", "4", "3"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Independent events?",
+        "options": ["No effect on each other", "Same outcome", "Always equal", "None"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "P(A or B)?",
+        "options": ["Union", "Intersection", "Difference", "None"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "P(A and B)?",
+        "options": ["Intersection", "Union", "Addition", "None"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Random variable is?",
+        "options": ["Numeric outcome", "Word", "Graph", "Matrix"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Mean is?",
+        "options": ["Average", "Mode", "Median", "Range"],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "code": "Csc 205",
+    "topic": "Computer Networks",
+    "duration": "20 minutes",
+    "expiry": "May 10, 2026",
+    "questions": [
+      {
+        "questionText": "LAN stands for?",
+        "options": ["Local Area Network", "Large Area Network", "Long Access Network", "Link Area Network"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "WAN covers?",
+        "options": ["Large area", "Small area", "Room", "Device"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "IP stands for?",
+        "options": ["Internet Protocol", "Internal Process", "Input Port", "Interface Program"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Router connects?",
+        "options": ["Networks", "Computers", "Printers", "Files"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Switch works at?",
+        "options": ["Data link layer", "Network layer", "Physical", "Application"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "HTTP is?",
+        "options": ["Protocol", "Hardware", "Software", "Cable"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Firewall protects?",
+        "options": ["Network", "CPU", "RAM", "Disk"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "DNS resolves?",
+        "options": ["Names to IP", "IP to names", "Files", "Data"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "OSI has layers?",
+        "options": ["7", "5", "4", "6"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "MAC address is?",
+        "options": ["Hardware address", "Software", "Protocol", "Network"],
+        "correctAnswerIndex": 0
+      }
+    ]
+  }
+]
