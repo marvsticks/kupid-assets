@@ -242,5 +242,69 @@
         ]
       }
     ]
-  }
+  },
+  {
+  "courseCode": "CSC 320",
+  "courseTitle": "Artificial Intelligence",
+  "assignments": [
+    {
+      "assignmentId": "CW_01",
+      "topic": "Introduction to Artificial Intelligence",
+      "duration": "15 minutes",
+      "expiry": "April 22, 2026",
+      "questions": [
+        {
+          "questionText": "What is Artificial Intelligence?",
+          "options": ["Human intelligence", "Machine simulation of human intelligence", "Database system", "Networking"],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionText": "Who is known as the father of AI?",
+          "options": ["Alan Turing", "John McCarthy", "Bill Gates", "Elon Musk"],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionText": "Which of these is an AI application?",
+          "options": ["Word processing", "Speech recognition", "Spreadsheet", "Compiler"],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionText": "Machine Learning is a subset of?",
+          "options": ["Networking", "Artificial Intelligence", "Databases", "Security"],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionText": "Which type of learning uses labeled data?",
+          "options": ["Unsupervised learning", "Supervised learning", "Reinforcement learning", "Deep learning"],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionText": "Which algorithm is used for classification?",
+          "options": ["Linear regression", "K-Nearest Neighbors", "Clustering", "Apriori"],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionText": "What is a neural network inspired by?",
+          "options": ["Computer circuits", "Human brain", "Databases", "Networks"],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionText": "Which of these is unsupervised learning?",
+          "options": ["Regression", "Classification", "Clustering", "Prediction"],
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionText": "Deep learning uses?",
+          "options": ["Simple models", "Neural networks with many layers", "Databases", "Operating systems"],
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionText": "AI is used in?",
+          "options": ["Healthcare", "Finance", "Gaming", "All of the above"],
+          "correctAnswerIndex": 3
+        }
+      ]
+    }
+  ]
+}
 ]
