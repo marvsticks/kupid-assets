@@ -1,26 +1,142 @@
 [
   {
+    "course": "Cos 315",
     "title": "Additional Questions PDF",
     "info": "20 mins",
     "type": "note",
     "url": "https://github.com/marvsticks/kupid-assets/raw/main/Additional%20questions....pdf"
   },
   {
+    "course": "Cos 202",
     "title": "Video: How K-Maps Work",
     "info": "https://www.youtube.com/watch?v=c_3aS4OGjvw",
     "type": "video",
     "url": null
   },
   {
+    "course": "Mth 202",
     "title": "MAT 201 H19.pdf",
     "info": "15 mins",
     "type": "note",
     "url": "https://github.com/marvsticks/kupid-assets/raw/main/MAT%20201%20H19.pdf"
   },
   {
+    "course": "Gns 201",
     "title": "External: ICT Research Portal",
     "info": "https://kwasu.edu.ng",
     "type": "link",
+    "url": null
+  },
+  {
+    "course": "Cos 315",
+    "title": "Intro to Data Mining",
+    "info": "https://www.youtube.com/watch?v=yZTBMMdPy9w",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Cos 315",
+    "title": "KDD Process Explained",
+    "info": "https://www.youtube.com/watch?v=fXp0X2W9XyM",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Cos 315",
+    "title": "Data Warehousing Basics",
+    "info": "https://www.youtube.com/watch?v=J326LIUrZM8",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Cos 202",
+    "title": "Logic Gates Tutorial",
+    "info": "https://www.youtube.com/watch?v=gI-qXk7XojA",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Cos 202",
+    "title": "Boolean Algebra Guide",
+    "info": "https://www.youtube.com/watch?v=QIv9H5X8H3Q",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Cos 202",
+    "title": "Number Systems Guide",
+    "info": "https://www.youtube.com/watch?v=L2zsmYaI5ww",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Gns 201",
+    "title": "Study of Peace & Conflict",
+    "info": "https://www.youtube.com/watch?v=ME8p6vGidvY",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Gns 201",
+    "title": "Nigerian History Overview",
+    "info": "https://www.youtube.com/watch?v=Bv0T5kOAsS4",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Gns 201",
+    "title": "Conflict Resolution Methods",
+    "info": "https://www.youtube.com/watch?v=NjS2_X6m3Sg",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Mth 202",
+    "title": "Calculus: Differentiation",
+    "info": "https://www.youtube.com/watch?v=9vKqVkMQHKk",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Mth 202",
+    "title": "Calculus: Integration",
+    "info": "https://www.youtube.com/watch?v=XpZpZ9uG_mU",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Mth 202",
+    "title": "Vector Algebra Basics",
+    "info": "https://www.youtube.com/watch?v=fNk_zzaMoSs",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Cos 204",
+    "title": "C++ Programming Intro",
+    "info": "https://www.youtube.com/watch?v=vLnPwxZdW4Y",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Cos 204",
+    "title": "Object Oriented Programming",
+    "info": "https://www.youtube.com/watch?v=pTB0EiLXUC8",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Cos 204",
+    "title": "Data Structures & Algorithms",
+    "info": "https://www.youtube.com/watch?v=8hly31xKli0",
+    "type": "video",
+    "url": null
+  },
+  {
+    "course": "Cos 204",
+    "title": "Recursion in C++",
+    "info": "https://www.youtube.com/watch?v=vVp598YlVf0",
+    "type": "video",
     "url": null
   }
 ]
