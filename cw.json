@@ -1,0 +1,246 @@
+[
+  {
+    "courseCode": "CSC 315",
+    "courseTitle": "Data Mining & Warehousing",
+    "assignments": [
+      {
+        "assignmentId": "CW_01",
+        "topic": "Introduction to OLAP Cubes",
+        "duration": "15 minutes",
+        "expiry": "April 20, 2026",
+        "questions": [
+          {
+            "questionText": "What does OLAP stand for?",
+            "options": ["Online Logical Analytical Process", "Online Analytical Processing", "Offset Logic Analysis Protocol", "None"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "questionText": "Which operation reduces a cube by one dimension?",
+            "options": ["Roll-up", "Drill-down", "Slice", "Pivot"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "questionText": "Which OLAP operation increases detail?",
+            "options": ["Drill-down", "Roll-up", "Slice", "Dice"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Which operation rotates the cube?",
+            "options": ["Pivot", "Slice", "Dice", "Roll-up"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Data warehouse is?",
+            "options": ["Operational DB", "Central repository", "Cache", "Memory"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "questionText": "Fact table stores?",
+            "options": ["Measures", "Keys", "Indexes", "Views"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Dimension table stores?",
+            "options": ["Attributes", "Measures", "Keys only", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "OLAP is used for?",
+            "options": ["Analysis", "Transactions", "Storage", "Networking"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Star schema contains?",
+            "options": ["Fact + dimensions", "Only facts", "Only dimensions", "Indexes"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Snowflake schema is?",
+            "options": ["Normalized star schema", "Flat table", "Tree", "Graph"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "assignmentId": "CW_02",
+        "topic": "Association Rule Mining",
+        "duration": "10 minutes",
+        "expiry": "April 25, 2026",
+        "questions": [
+          {
+            "questionText": "Which algorithm finds frequent itemsets?",
+            "options": ["K-Means", "Apriori", "Dijkstra", "PageRank"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "questionText": "Support measures?",
+            "options": ["Frequency", "Accuracy", "Speed", "Size"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Confidence measures?",
+            "options": ["Strength of rule", "Speed", "Accuracy", "Size"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Lift indicates?",
+            "options": ["Correlation", "Speed", "Size", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Market basket analysis is?",
+            "options": ["Association mining", "Sorting", "Searching", "Clustering"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Frequent itemset means?",
+            "options": ["High occurrence", "Low occurrence", "Random", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Apriori uses?",
+            "options": ["Candidate generation", "Sorting", "Graphs", "Trees"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Rule A → B means?",
+            "options": ["If A then B", "A equals B", "A minus B", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Data mining finds?",
+            "options": ["Patterns", "Errors", "Memory", "Code"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Clustering is?",
+            "options": ["Grouping data", "Sorting", "Searching", "Indexing"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "assignmentId": "CW_03",
+        "topic": "Data Warehousing Concepts",
+        "duration": "15 minutes",
+        "expiry": "April 30, 2026",
+        "questions": [
+          {
+            "questionText": "ETL stands for?",
+            "options": ["Extract Transform Load", "Enter Transfer Load", "Extract Transfer Link", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Data warehouse is subject-oriented?",
+            "options": ["Yes", "No", "Sometimes", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Non-volatile means?",
+            "options": ["Stable data", "Changing data", "Temporary", "Deleted"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Time-variant means?",
+            "options": ["Stores history", "Current only", "Future only", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Metadata describes?",
+            "options": ["Data about data", "Raw data", "Code", "Tables"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Data mart is?",
+            "options": ["Subset warehouse", "Full DB", "Index", "View"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Warehouse supports?",
+            "options": ["Decision making", "Transactions", "Networking", "Coding"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "OLTP is for?",
+            "options": ["Transactions", "Analysis", "Storage", "Mining"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Denormalization improves?",
+            "options": ["Performance", "Security", "Storage", "Speed"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Fact table keys are?",
+            "options": ["Foreign keys", "Primary keys", "Indexes", "None"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseCode": "MTH 201",
+    "courseTitle": "Linear Algebra",
+    "assignments": [
+      {
+        "assignmentId": "MTH_CW1",
+        "topic": "Matrix Transformations",
+        "duration": "20 minutes",
+        "expiry": "May 05, 2026",
+        "questions": [
+          {
+            "questionText": "Determinant of identity matrix?",
+            "options": ["0", "1", "-1", "Infinity"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "questionText": "Transpose means?",
+            "options": ["Swap rows/columns", "Multiply", "Add", "Divide"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Inverse exists when?",
+            "options": ["Det ≠ 0", "Det = 0", "Always", "Never"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Zero matrix has?",
+            "options": ["All zeros", "All ones", "Mixed", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Rank is?",
+            "options": ["Independent rows", "Sum", "Size", "Value"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Vector has?",
+            "options": ["Magnitude & direction", "Magnitude only", "Direction only", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Eigenvalues relate to?",
+            "options": ["Matrices", "Scalars", "Graphs", "Lines"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Identity matrix has?",
+            "options": ["1s diagonal", "0s diagonal", "All 1s", "Random"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Scalar is?",
+            "options": ["Single value", "Matrix", "Vector", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "questionText": "Matrix addition requires?",
+            "options": ["Same size", "Different size", "Any", "None"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      }
+    ]
+  }
+]
